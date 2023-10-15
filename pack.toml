@@ -1,0 +1,13 @@
+name = "Fabric server optimizations"
+author = "Hubble"
+version = "1.19.4"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "726c47e7561ee9e1a16d647e25dadecd91723feb54d4eee642e7ad9156ae485a"
+
+[versions]
+fabric = "0.14.23"
+minecraft = "1.19.4"
